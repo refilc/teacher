@@ -37,7 +37,7 @@ Az összes (ugyan azon verzióhoz tartozó) contribution meg fog jelenni a relea
 
 -------
 
-# A csapat
+# Csapatunk
 
 **kima:** head developer / project manager
 
