@@ -19,7 +19,8 @@ class _LoginScreenState extends State<LoginScreen> {
           children: [
             Column(children: [
               TextField(controller: _insituteController, decoration: const InputDecoration(hintText: "insituteID"),),
-              FilledButton(onPressed: (){}, child: const Text("asd")),
+              FilledButton(onPressed: (){}, child: const Text("login")),
+              //TODO: implement login xd
             ],)
           ],
         ),
