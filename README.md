@@ -1,6 +1,6 @@
 <p align=center>
   <img src="https://refilc.hu/image/brand/logo.png" width=150>
-  <h1 align=center><b>reFilc</b></h1>
+  <h1 align=center><b>reFilc - Teachers</b></h1>
 </p>
 
 #### Nem hivatalos e-napló alkalmazás az e-KRÉTA rendszerhez - tanulóktól, tanároknak.
